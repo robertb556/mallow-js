@@ -1,0 +1,24 @@
+{
+  "name": "mallow-js",
+  "version": "0.0.1",
+  "description": "NPM package for Mallow JS.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertb556/mallow-js.git"
+  },
+  "keywords": [
+    "html5",
+    "canvas"
+  ],
+  "author": "Robert B.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robertb556/mallow-js/issues"
+  },
+  "homepage": "https://github.com/robertb556/mallow-js#readme"
+}
