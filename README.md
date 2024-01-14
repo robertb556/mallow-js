@@ -1,13 +1,13 @@
 # Mallow JS
 A JavaScript HTML5 canvas framework intended for rapid prototyping 2D games.
 
-### Installing
+## Installing
 Todo
 
 ## Getting Started
 Todo
 
-### Dependencies
+## Dependencies
 None.
 
 ## Author
